@@ -1,5 +1,17 @@
 # PowerBI_Project_2_Insurance_claim_Dashboard
 
+🚀 Interactive Insurance Claim Dashboard using Power BI!
+This dashboard provides deep
+insights into policy distribution, claim performance, and customer demographics
+— a perfect tool for insurance analysts and business decision-makers.
+🔍 Highlights for Recruiters (Bullet Points):
+📊 Analyzed 10,000+ policy records to extract key insurance metrics.
+🧑‍💼 Segmented customers by gender, age, and policy types for better targeting.
+💸 Compared premium collected vs. claim amounts to assess policy profitability.
+📅 Identified claim filing patterns over time to detect operational trends.
+✅ Visualized claim statuses (Approved, Rejected, Pending) by policy types for risk evaluation.
+📍 Used DAX measures, slicers, KPIs, and time-based filters to enhance interactivity.
+
 📊 What This Dashboard Tells
 1. Overall Business Metrics
   * Premium Collected: ₹5.98M
