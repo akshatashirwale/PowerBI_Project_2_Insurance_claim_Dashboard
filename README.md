@@ -4,7 +4,7 @@
 This dashboard provides deep
 insights into policy distribution, claim performance, and customer demographics
 — a perfect tool for insurance analysts and business decision-makers.
-🔍 Highlights for Recruiters (Bullet Points):
+
 📊 Analyzed 10,000+ policy records to extract key insurance metrics.
 🧑‍💼 Segmented customers by gender, age, and policy types for better targeting.
 💸 Compared premium collected vs. claim amounts to assess policy profitability.
